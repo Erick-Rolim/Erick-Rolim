@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Junior Full Stack Developer<br>-Currently pursuing a degree in Systems Analysis and Development<br>-Self-taught and constantly learning new technologies<br>-Focused on building complete web solutions, from front-end to back-end</h2>
+<h2 align="left">👨‍💻 Full Stack Developer<br>-Currently pursuing a degree in Systems Analysis and Development<br>-Self-taught and constantly learning new technologies<br>-Focused on building complete web solutions, from front-end to back-end</h2>
 
 ###
 
